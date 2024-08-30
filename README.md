@@ -1,7 +1,6 @@
-Aquí tienes el contenido del `README.md` en formato de código para que puedas copiarlo y pegarlo directamente en tu archivo:
 
 ```markdown
-# Data Engineer Workshop Project
+# ETL Workshop Project
 
 ## Descripción
 

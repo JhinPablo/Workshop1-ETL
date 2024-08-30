@@ -1,18 +1,17 @@
-# Ignorar el entorno virtual
-venv/
-
-# Ignorar archivos temporales de Python
-*.pyc
-__pycache__/
-
-# Ignorar archivos de configuración de VS Code
-.vscode/
-.idea/
-
-# Ignorar archivos de sistema
-.DS_Store
-Thumbs.db
-
-# ignore
+# Ignorar archivos de entorno
 .env
 
+# Ignorar entornos virtuales
+venv/
+.venv/
+
+# Ignorar archivos de configuración de IDEs
+*.vscode/
+.idea/
+
+# Ignorar archivos de bases de datos
+*.sqlite3
+
+# Ignorar archivos de log y temporales
+*.log
+*.tmp
